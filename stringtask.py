@@ -37,4 +37,5 @@ print(full_name)
 5.#Having the string r = '["E","W","C"]' #Manipulate it to display EWC
 r = '["E","W","C"]'
 r2 = r.replace('[','').replace(']','').replace('"','').replace(',','')
-print(r2)
+print(r2) 
+
